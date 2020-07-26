@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1563262004 source:c:\users\bharatbhai\desktop\upperlower\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1566657952 source:e:\vvp\3rd year\5th sem\sp\upperlower\main.c
+	<stdio.h>
+	<conio.h>
+
+1566657952 source:d:\study\vvp\3rd year\5th sem\sp\programs\upperlower\main.c
+	<stdio.h>
+	<conio.h>
+

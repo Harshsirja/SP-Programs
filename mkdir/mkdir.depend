@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1566655920 source:e:\vvp\3rd year\5th sem\sp\mkdir\main.c
+	<stdio.h>
+	<stdlib.h>
+	<dir.h>
+
+1566655920 source:d:\study\vvp\3rd year\5th sem\sp\programs\mkdir\main.c
+	<stdio.h>
+	<stdlib.h>
+	<dir.h>
+
